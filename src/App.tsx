@@ -18,7 +18,7 @@ function App() {
       </div>
       <h1>Vite + React</h1>
       <div className="card">
-        <a href='https://mirantes-b2c-app://(private)/home/comments'>
+        <a href='https://mirantes-b2c-app://(private)/home'>
           count is {count}
         </a>
         <p>
